@@ -1,2 +1,1 @@
-# Nezuko-bot-
-Nova bot
+NEZUKO-BOT V1.0
